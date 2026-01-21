@@ -13,6 +13,13 @@
 <h4 align="left">Detail-oriented React Developer with a strong foundation in building scalable Front-end applications using React 19, TypeScript, and Tailwind CSS. Experienced in state management (Redux, useReducer), internationalization (i18n), and performance optimization. Proven track record in solving complex UI challenges and building reusable component architectures.</h4>
 
 ###
+<div align="center">
+<a href="https://drive.google.com/file/d/1gE7LFlmKxnwhHAacx6d2Qu9peRa8Mxuo/view?usp=sharing" target="_blank">
+    <img src="https://camo.githubusercontent.com/8315020935663e516ea0d955b9fc874ffd86810846797f743d782eb116dcc59b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d792043562d3030353532303f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c656472697665266c6f676f436f6c6f723d7768697465" height="40" style="max-width: 100%; width:25%; height: auto;"  data-canonical-src="https://img.shields.io/badge/My CV-005520?style=flat-square&amp;logo=googledrive&amp;logoColor=white"   alt="my cv"/>
+  </a>
+</div>
+
+###
 
 <h2 align="left">I code with</h2>
 
@@ -70,9 +77,6 @@
   </a>
   <a href="mailto:mohmmedhany8@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://drive.google.com/file/d/1gE7LFlmKxnwhHAacx6d2Qu9peRa8Mxuo/view?usp=sharing" target="_blank">
-    <img src="https://camo.githubusercontent.com/8315020935663e516ea0d955b9fc874ffd86810846797f743d782eb116dcc59b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d792043562d3030353532303f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c656472697665266c6f676f436f6c6f723d7768697465" height="40" style="max-width: 100%; height: auto; max-height: 40px;"  data-canonical-src="https://img.shields.io/badge/My CV-005520?style=flat-square&amp;logo=googledrive&amp;logoColor=white"   alt="my cv"/>
   </a>
 </div>
 
