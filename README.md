@@ -25,41 +25,32 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="53" alt="html5 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="53" alt="css logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="53" alt="tailwindcss logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="53" alt="bootstrap logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="53" alt="javascript logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="53" alt="typescript logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="53" alt="react logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="53" alt="nextjs logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="53" alt="materialui logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="53" alt="jquery logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="53" alt="nodejs logo"  />
-  <img width="13" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="53" alt="jest logo"  />
-  <img width="13" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="53" alt="vscode logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="53" alt="cplusplus logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="53" alt="figma logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="53" alt="git logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="53" alt="github logo"  />
-</div>
+ <div align="center">
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML"width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS"width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=materialui&theme=dark" alt="Material UI"width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=pnpm&theme=dark" alt="pnpm" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="npm" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="Redux" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"width="53" height="53" />
+  <!-- <img src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="vitest"width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="threejs"width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=blender&theme=dark" alt="blender"width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="astro"width="53" height="53" /> -->
+</div> 
+
 
 ###
 
