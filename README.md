@@ -45,10 +45,13 @@
   <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"width="53" height="53" />
   <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"width="53" height="53" />
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"width="53" height="53" />
-  <!-- <img src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="vitest"width="53" height="53" />
-  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="threejs"width="53" height="53" />
+   <img src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="vitest"width="53" height="53" />
+       <img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="astro"width="53" height="53" />
+     <img src="https://skillicons.dev/icons?i=jest&theme=dark" alt="jest"width="53" height="53" />
+ <!-- <img src="https://skillicons.dev/icons?i=graphql&theme=dark" alt="graphql"width="53" height="53" />
+     <img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="threejs"width="53" height="53" />
     <img src="https://skillicons.dev/icons?i=blender&theme=dark" alt="blender"width="53" height="53" />
-    <img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="astro"width="53" height="53" /> -->
+   -->
 </div> 
 
 
