@@ -29,7 +29,10 @@
   <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="53" height="53" />
   <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="53" height="53" />
   <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="53" height="53" />
+     <img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="astro"width="53" height="53" />
   <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" width="53" height="53" />
+        <img src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="vitest"width="53" height="53" />
+     <img src="https://skillicons.dev/icons?i=jest&theme=dark" alt="jest"width="53" height="53" />
   <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" width="53" height="53" />
   <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML"width="53" height="53" />
   <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS"width="53" height="53" />
@@ -45,9 +48,6 @@
   <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"width="53" height="53" />
   <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"width="53" height="53" />
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"width="53" height="53" />
-   <img src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="vitest"width="53" height="53" />
-       <img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="astro"width="53" height="53" />
-     <img src="https://skillicons.dev/icons?i=jest&theme=dark" alt="jest"width="53" height="53" />
  <!-- <img src="https://skillicons.dev/icons?i=graphql&theme=dark" alt="graphql"width="53" height="53" />
      <img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="threejs"width="53" height="53" />
     <img src="https://skillicons.dev/icons?i=blender&theme=dark" alt="blender"width="53" height="53" />
