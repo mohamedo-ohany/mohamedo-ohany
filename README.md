@@ -25,12 +25,38 @@
 
 ###
 
+
  <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="53" height="53" /><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="53" height="53" /><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="53" height="53" /><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" width="53" height="53" /><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" width="53" height="53" /><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML"width="53" height="53" /><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS"width="53" height="53" /><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"width="53" height="53" /><img src="https://skillicons.dev/icons?i=materialui&theme=dark" alt="Material UI"width="53" height="53" /><img src="https://skillicons.dev/icons?i=pnpm&theme=dark" alt="pnpm" width="53" height="53" /><img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="npm" width="53" height="53" /><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" width="53" height="53" /><img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="Redux" width="53" height="53" /><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" width="53" height="53" /><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" width="53" height="53" /><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code" width="53" height="53" /><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"width="53" height="53" /><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"width="53" height="53" /><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"width="53" height="53" /><img src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="vitest"width="53" height="53" /><img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="astro"width="53" height="53" /> 
+ <table>
+  <tr>
+  <td align="center">
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML"width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS"width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=materialui&theme=dark" alt="Material UI"width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=pnpm&theme=dark" alt="pnpm" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="npm" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="Redux" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code" width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"width="53" height="53" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"width="53" height="53" />
+   <img src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="vitest"width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="astro"width="53" height="53" /> 
      <!-- <img src="https://skillicons.dev/icons?i=blender&theme=dark" alt="blender"width="53" height="53" />
       <img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="threejs"width="53" height="53" /> -->
-</p> 
-
+      </td>
+  </tr>
+</table>
+</p>
 
 ###
 
